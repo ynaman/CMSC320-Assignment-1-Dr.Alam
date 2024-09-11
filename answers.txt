@@ -1,0 +1,4 @@
+Q1: Why might be consider using git?
+
+Answer: Git provides a log of commits and pushes which can be easy to track when many people are working on the same project file.
+It also stores the project away from your local machine, in the case that the file is lost on your local machine. 
