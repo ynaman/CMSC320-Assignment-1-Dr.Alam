@@ -6,3 +6,7 @@ It also stores the project away from your local machine, in the case that the fi
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data Science can be applied to the field of Marketing. An example of this would be when you are on a marketing team and you need to see which marketing strategy will work the best with your audience. To do this you collect data of your audience on which type of ad's they are persudaded with by the most and using data science techniques (filtering outliers, cleaning the data, analyzing the data) you can figure out which advertising technique will work the best.  
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: Merging combines the changes of two branches into one branch. Rebasing on the other hand, just moves the changes from one branch to another.
