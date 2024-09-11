@@ -10,3 +10,8 @@ Answer: Data Science can be applied to the field of Marketing. An example of thi
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging combines the changes of two branches into one branch. Rebasing on the other hand, just moves the changes from one branch to another.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my analyzing skills, so I can analyze data better and come up with more accurate conclusions. 
+I also hope to improve my data cleaning skills, as that is not a aspect I am familiar with. 
